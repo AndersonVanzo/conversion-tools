@@ -5,7 +5,7 @@
 
 html,
 body {
-  background-color: $white;
+  background-color: $black;
   font-family: 'Bagnard', sans-serif;
   font-size: 16px;
   overflow-x: hidden;
@@ -19,7 +19,7 @@ a {
 
 * {
   box-sizing: border-box;
-  color: $black;
+  color: $white;
   margin: 0;
   padding: 0;
 }
