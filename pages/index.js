@@ -13,7 +13,7 @@ export default function Index() {
         <div className={styles.header}>
           <h1 className={styles.header__title}>Conversion Tools</h1>
         </div>
-        <div className={styles.wave}></div>
+        <div className={styles.header__wave}></div>
       </main>
     </div>
   );
